@@ -1,0 +1,61 @@
+
+#Me {
+    float: left;
+    width: 55%;
+    padding: 5px;
+    margin:0 auto;
+}
+#MyWork {
+    background-color: lavender;
+    float: right;
+    width: 35%;
+    padding: 5px;
+    margin:0 auto;
+}
+#nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+#nav li {
+  display: inline
+
+}
+#footer {
+    position: fixed;
+    bottom: 0;
+    height: 40px;
+}
+p {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 15px;
+  color: navy;
+  text-align: center;
+}
+h1 {
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-size: 45px;
+  font-weight: bold;
+  color: purple;
+}
+h2 {
+  font-family: "Helvetica", "Arial", "sans-serif";
+  font-size: 30px;
+  font-style: italic;
+  color: navy;
+  text-align: center;
+}
+img
+{
+  border-style: none;
+  padding-left: 20%;
+}
+a:link {
+    color: navy;
+}
+a:visited {
+    color: purple;
+}
+a:hover {
+    color: orange;
+}
